@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   ['by_default'] = 'alapértelmezett',
   ['installed'] = 'telepítve',
   ['already_own'] = 'már használod: %s',

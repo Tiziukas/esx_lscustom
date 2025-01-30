@@ -1,4 +1,4 @@
-Locales["he"] = {
+return {
     ["by_default"] = "ברירת המחדל",
     ["installed"] = "מותקן",
     ["already_own"] = "כבר ברשותך: %s",

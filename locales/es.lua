@@ -1,4 +1,4 @@
-Locales['es'] = {
+return {
   ['by_default'] = 'Por defecto',
   ['installed'] = 'Instalado',
   ['already_own'] = 'Ya tienes: %s~',

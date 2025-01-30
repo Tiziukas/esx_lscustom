@@ -1,4 +1,4 @@
-Locales["fr"] = {
+return {
 	["by_default"] = "par défaut",
 	["installed"] = "installé",
 	["already_own"] = "vous possédez déjà: %s",

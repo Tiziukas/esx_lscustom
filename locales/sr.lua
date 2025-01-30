@@ -1,4 +1,4 @@
-Locales['sr'] = {
+return {
   ['by_default'] = 'obicno',
   ['installed'] = 'ugradjeno',
   ['already_own'] = 'vi vec posedujete: %s',

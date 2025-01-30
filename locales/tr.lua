@@ -1,4 +1,4 @@
-Locales['tr'] = {
+return {
   ['by_default'] = 'Varsayılan',
   ['installed'] = 'Kurulmuş',
   ['already_own'] = 'Zaten Sahipsiniz: %s',
